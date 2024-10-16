@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! 👋
+
+- 🌬️ I’m currently working on analytical wake models for wind energy at [DTU Wind and Energy Systems](https://wind.dtu.dk).
+- 🐍 I write almost exclusively in **Python**, with a focus on **scientific programming**.
+- 📊 I’m developing my own analytical wake model, which will be published on **PyWake** before September 2025.
+- 💼 I also enjoy writing Python code to manage personal finances, tailored for expats.
+- 🚀 My goal: turn **research papers** into **high-quality code** to make a real impact in industry.
 
 <!--
 **NilsGaukroger/NilsGaukroger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
